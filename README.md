@@ -1,6 +1,6 @@
 # I/O Interrupt
 
-🔗 **Language Selection**  
+🔗 **Language Selection / Dil Seçimi**  
 [English](#english) | [Türkçe](#turkce)
 
 <a id="english"></a>
